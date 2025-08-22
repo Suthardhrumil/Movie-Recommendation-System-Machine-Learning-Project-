@@ -33,7 +33,7 @@ It uses **text vectorization (CountVectorizer)** and **cosine similarity** to re
 
 ---
 
-## 📊 Dataset & Model Files
+## 📊 ML Model code Files
 Due to GitHub’s **25MB limit**, large files are stored on **Google Drive**.  
 You can download them here:  
 

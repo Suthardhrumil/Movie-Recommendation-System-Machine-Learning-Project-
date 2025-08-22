@@ -60,13 +60,18 @@ You can download them here:
    python app.py
 
 📈 Example Output
-  Input:Avatar
 
-  Output:
+    Input:Avatar
+
+    Output:
           1. Avatar: The Way of Water
+          
           2. Guardians of the Galaxy
+          
           3. John Carter
+          
           4. Star Trek
+          
           5. The Avengers
 
 🛠️ Tech Stack
@@ -75,3 +80,7 @@ You can download them here:
     -Scikit-learn
     -Pickle
     -Cosine Similarity
+
+
+## 🎬 Movie Recommendation System – Website Preview
+Explore my **Movie Recommendation System (Machine Learning Project)** on this [LinkedIn post](https://www.linkedin.com/posts/dhrumilsutharcs2026_movie-recommendation-system-machine-learning-activity-7364583327221157890-RGS3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEayk3IBzFxcVEg5evQXptQrL8kf4UGt2L4).

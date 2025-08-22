@@ -31,7 +31,8 @@ It uses **text vectorization (CountVectorizer)** and **cosine similarity** to re
 Due to GitHub’s **25MB limit**, large files are stored on **Google Drive**.  
 You can download them here:  
 
-🔗 [Download Dataset & Pickle Files]([https://drive.google.com/your-shared-link](https://drive.google.com/drive/folders/1Ut-cunCetJhxDQOnRnOIk4luEinjWTGk?dmr=1&ec=wgc-drive-hero-goto))  
+🔗 [Download Dataset & Pickle Files](https://drive.google.com/drive/folders/1Ut-cunCetJhxDQOnRnOIk4luEinjWTGk?usp=sharing)
+  
 
 *(Make sure the Google Drive file is set to **Anyone with the link → Viewer** so users can access it.)*
 

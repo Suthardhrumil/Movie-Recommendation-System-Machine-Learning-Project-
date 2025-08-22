@@ -16,11 +16,17 @@ It uses **text vectorization (CountVectorizer)** and **cosine similarity** to re
 
 ## 📂 Repository Structure
 |- app.py                           # Main Python app file
+
 |- Data Preprocessing & ML model building.ipynb   # Jupyter Notebook
+
 |- tmdb-CSV-file.zip                # Sample dataset (zipped)
+
 |- movies.pkl                       # Preprocessed movie metadata
+
 |- similarity.pkl                   # Similarity matrix
+
 |- movie_dict.pkl                   # Movie dictionary
+
 |- README.md                        # Project documentation
 
 
